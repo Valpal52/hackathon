@@ -1,0 +1,215 @@
+.home-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-page-home-page {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(235, 227, 247, 1);
+}
+.home-page-tab {
+  gap: 2px;
+  top: 90px;
+  left: 140px;
+  width: 109px;
+  display: flex;
+  opacity: 0.50;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-page-frameiconbicycle {
+  width: 107px;
+  height: 77px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-vector {
+  top: 0px;
+  left: 0px;
+  width: 107px;
+  height: 77px;
+  position: absolute;
+}
+.home-page-tabs {
+  gap: -4px;
+  top: 37px;
+  left: 6px;
+  width: 375px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.home-page-tab1 {
+  gap: 2px;
+  top: 591px;
+  left: 6px;
+  width: 384px;
+  display: flex;
+  opacity: 0.50;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-page-icon {
+  width: 83px;
+  height: 81px;
+}
+.home-page-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-tab2 {
+  gap: 2px;
+  top: 445px;
+  left: 100px;
+  width: 189px;
+  display: flex;
+  opacity: 0.50;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(206, 231, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-page-icon1 {
+  width: 95px;
+  height: 101px;
+}
+.home-page-text2 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-tab3 {
+  gap: 2px;
+  top: 390px;
+  left: 131px;
+  width: 128px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-page-text4 {
+  color: rgba(62, 62, 68, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text6 {
+  top: 204px;
+  left: 153px;
+  color: rgba(82, 82, 92, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-frameiconsoap {
+  top: 284px;
+  left: 172px;
+  width: 47px;
+  height: 89px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-vector1 {
+  top: 19.77777862548828px;
+  left: 0px;
+  width: 47px;
+  height: 69px;
+  position: absolute;
+}
+.home-page-vector2 {
+  top: 49.44444274902344px;
+  left: 0px;
+  width: 47px;
+  height: 1px;
+  position: absolute;
+}
+.home-page-vector3 {
+  top: 0px;
+  left: 9.399989128112793px;
+  width: 19px;
+  height: 20px;
+  position: absolute;
+}
+.home-page-frameiconcog {
+  top: 765px;
+  left: 309px;
+  width: 60px;
+  height: 58px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 58px;
+  position: absolute;
+}
